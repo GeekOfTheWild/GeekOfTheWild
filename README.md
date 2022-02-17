@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GeekOfTheWild
-- 👀 I’m interested in video games and any coding
-- 🌱 I’m currently learning html python js and css
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me don't
+- 👀 I’m interested in video games and C++
+- 🌱 I’m currently learning C++, but I know bits of a bunch of languages
+- 💞️ I’m looking to collaborate on nothing (not trying to be rude)
+- 📫 How to reach me don't (not trying to be rude)
 
 <!---
 GeekOfTheWild/GeekOfTheWild is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
